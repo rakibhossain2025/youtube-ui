@@ -30,8 +30,8 @@ This site lets you **pretend** you're productive while actually browsing cats do
 ## 🤓 How to run
 
 ```bash
-git clone https://github.com/rakib/simpletube.git
-cd simpletube
+git clone (https://github.com/rakibhossain2025/youtube-ui)
+cd youtube-ui
 npm install
 npm run dev
 ```
