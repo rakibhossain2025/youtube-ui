@@ -1,12 +1,67 @@
-# React + Vite
+# 📺 SimpleTube — YouTube’r ছেলে!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Built with ⚛️ React + ❤️ Love + 3 Cups of ☕ Coffee
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🤔 What is this?
 
-## Expanding the ESLint configuration
+A simple, fake YouTube UI made by a developer who watches more videos than he writes code.  
+This site lets you **pretend** you're productive while actually browsing cats doing parkour 🐱💨.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- React (Because Vanilla JS felt too healthy)
+- Tailwind CSS (Because writing CSS is pain 🥲)
+- Love, hope, and delayed sleep 💤
+
+---
+
+## 🎯 Features
+
+- 🔍 Search bar that does nothing (yet looks important)
+- 🧠 Suggestion sidebar — to make you feel like a pro dev
+- 💥 No backend, no database, no rules!
+
+---
+
+## 🤓 How to run
+
+```bash
+git clone https://github.com/rakib/simpletube.git
+cd simpletube
+npm install
+npm run dev
+```
+
+Then...
+👉 Sit back.
+👉 Open browser.
+👉 Pretend you built YouTube. 😎
+
+🐛 Known Issues
+Videos won’t play — because they’re images 🙃
+The search bar won’t search — but it looks serious
+May cause overconfidence in beginners (side effect)
+
+🚀 Future Plans
+Add "404 Not Found" page for no reason
+Build an AI that watches videos for you
+Add dark mode for 0.0001% productivity boost
+
+🤝 Contribute
+If you:
+Binge YouTube like a pro,
+Know CSS better than your relatives,
+Or just want to fix typos,
+Pull requests are welcome 😅
+
+🧠 Inspiration
+“Why build the next big thing when you can build a fake YouTube?”
+— Someone on the internet, probably.
+
+🙏 Thank You
+Thanks for scrolling this far. You deserve a cookie 🍪
+Now go build something awesome (or watch YouTube — we won’t judge).
